@@ -20,9 +20,7 @@
 
 <br />
 
-### 📰 SignUp to My NewsLetter
-[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter]
-<br>
+### 📰 SignUp to My NewsLetter[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter]
 <br>
 ---
 
@@ -33,7 +31,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
- 
+ <br>
 ---
 
 
