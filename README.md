@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hi there, I'm Lakhan 👋
 
-<!--
-**Lakhankumawat/LakhanKumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a  Developer and Student!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a [Web Dev Projects]!
+- 🌱 I’m currently learning to live life withput problems 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play Online Multiplayer Games
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv?si=CSuWUSw1T-ySIfXiBJGpPQ)
+
+### Connect with me:
+[<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="no alternative" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+<br />
+
+### 📰 SignUp to My NewsLetter
+[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter]
+<br>
+<br>
+---
+
+### 📕 My Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
+
+<!-- BLOG-POST-LIST:END -->
+
+ 
+---
+
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="EpicStarBoy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LakhanKumawat&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://lakhankumawat.github.io/MY3RDWEBPAGE/
+[twitter]: https://twitter.com/KNKUMWT1
+[instagram]: https://www.instagram.com/_.lakhan.__/
+[linkedin]: https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B64Eho2C7RZuT2SxDPwg0DA%3D%3D
+[newsletter]:https://damp-peak-39956.herokuapp.com/
