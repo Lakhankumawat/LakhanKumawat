@@ -39,14 +39,10 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="EpicStarBoy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LakhanKumawat&show_icons=true&theme=algolia&hide_border=true" />
+  <img align="left" alt="EpicStarBoy's Github Stats" src="https://github-readme-stats.LakhanKumawat.vercel.app/api?username=LakhanKumawat&show_icons=true&theme=algolia&hide_border=true" />
 
 </details>
-<details>
- <summary>:zap: Github Stats</summary>
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/LakhanKumawat/github-readme-stats)
- 
-</details>
+
 [website]: https://lakhankumawat.github.io/MY3RDWEBPAGE/
 [twitter]: https://twitter.com/KNKUMWT1
 [instagram]: https://www.instagram.com/_.lakhan.__/
