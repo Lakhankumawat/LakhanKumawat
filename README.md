@@ -41,6 +41,7 @@
 
   <img align="left" alt="EpicStarBoy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LakhanKumawat&show_icons=true&theme=algolia&hide_border=true" />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LakhanKumawat)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://lakhankumawat.github.io/MY3RDWEBPAGE/
