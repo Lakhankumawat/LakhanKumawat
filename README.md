@@ -1,10 +1,10 @@
 ### Hi there, I'm Lakhan 👋
 
 
-## I'm a  Developer and Student!
+## I'm a Student!
 
-- 🔭 I’m currently working on a [Web Dev Projects]!
-- 🌱 I’m currently learning to live life withput problems 🤣
+- 🔭 I’m currently working on [Web Projects]!
+- 🌱 I’m currently learning to live life without problems 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Online Multiplayer Games
