@@ -30,8 +30,9 @@
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
 
 <!-- BLOG-POST-LIST:END -->
+---
 <br>
-###[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][Game][Play My Game][Game]
+###[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][Game][Play My Game!][Game]
 ➡️ [Neon Knight :Tower Rush][Game]
  <br>
 ---
