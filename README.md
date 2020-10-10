@@ -31,12 +31,12 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br>
-[🎮 Play My Game!](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en) 
-<br>
+[🎮 Play My Game!](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en/) 
 <!-- Game-POST-LIST:START -->
-➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
+➡️ [Neon Knight :Tower Rush][Dev]
 <!-- Game-POST-LIST:END -->
 <br>
+---
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -50,4 +50,4 @@
 [instagram]: https://www.instagram.com/_.lakhan.__/
 [linkedin]: https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B64Eho2C7RZuT2SxDPwg0DA%3D%3D
 [newsletter]:https://damp-peak-39956.herokuapp.com/
-
+[Dev]: https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en/
