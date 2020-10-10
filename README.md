@@ -22,6 +22,7 @@
 
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 <br>
+---
 <br>
 📕 My Blog Post
 <!-- BLOG-POST-LIST:START -->
@@ -31,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br>
-[🎮 Play My Game!](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en) 
+🎮 Play My Game!
 
 ➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 
