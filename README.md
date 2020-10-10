@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br>
-[🎮 Play My Game!][Game]
+🎮 Play My Game![Game]
 <!-- Game-POST-LIST:START -->
 ➡️ [Neon Knight :Tower Rush][Game]
 <!-- Game-POST-LIST:END -->
