@@ -22,11 +22,8 @@
 
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 <br>
-
 ---
-<br>
 📕 My Blog Post
-
 <!-- BLOG-POST-LIST:START -->
 
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
@@ -34,14 +31,11 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br>
----
 [🎮 Play My Game!][Game]
-<!-- BLOG-POST-LIST:START -->
+<!-- Game-POST-LIST:START -->
 ➡️ [Neon Knight :Tower Rush][Game]
-<!-- BLOG-POST-LIST:END -->
----
-
-
+<!-- Game-POST-LIST:END -->
+<br>
 <details>
   <summary>:zap: Github Stats</summary>
 
