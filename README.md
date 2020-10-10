@@ -31,7 +31,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 <br>
-###[<i class="fab fa-google-play"></i>][Awesome][Play My Game][Game]
+###[<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][Game][Play My Game][Game]
 ➡️ [Neon Knight :Tower Rush][Game]
  <br>
 ---
