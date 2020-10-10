@@ -19,7 +19,6 @@
 [<img align="left" alt="no alternative" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br>
 ---
-<br>
 
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 <br>
@@ -31,7 +30,9 @@
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
 
 <!-- BLOG-POST-LIST:END -->
-
+<br>
+###[<i class="fab fa-google-play"></i>][Awesome][Play My Game][Game]
+➡️ [Neon Knight :Tower Rush][Game]
  <br>
 ---
 
@@ -49,3 +50,5 @@
 [instagram]: https://www.instagram.com/_.lakhan.__/
 [linkedin]: https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B64Eho2C7RZuT2SxDPwg0DA%3D%3D
 [newsletter]:https://damp-peak-39956.herokuapp.com/
+[Game]:https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en
+[Awesome]:https://use.fontawesome.com/releases/v5.0.7/js/all.js
