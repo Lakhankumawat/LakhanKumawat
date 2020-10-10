@@ -22,7 +22,7 @@
 
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 <br>
----
+<br>
 📕 My Blog Post
 <!-- BLOG-POST-LIST:START -->
 
@@ -31,10 +31,10 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br>
-🎮 Play My Game! 
+[🎮 Play My Game!](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en) 
 <br>
 <!-- Game-POST-LIST:START -->
-➡️ [Neon Knight :Tower Rush][Game]
+➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 <!-- Game-POST-LIST:END -->
 <br>
 <details>
@@ -49,6 +49,5 @@
 [twitter]: https://twitter.com/KNKUMWT1
 [instagram]: https://www.instagram.com/_.lakhan.__/
 [linkedin]: https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B64Eho2C7RZuT2SxDPwg0DA%3D%3D
-[Game]:https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en
 [newsletter]:https://damp-peak-39956.herokuapp.com/
 
