@@ -21,9 +21,10 @@
 ---
 
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
+</br>
+
 <br>
 ---
-<br>
 📕 My Blog Post
 <!-- BLOG-POST-LIST:START -->
 
