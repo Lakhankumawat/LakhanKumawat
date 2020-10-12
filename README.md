@@ -24,7 +24,7 @@
 ---
 <br>
 
-📕 My Blog Post
+📕 My Blog Post!
 <!-- BLOG-POST-LIST:START -->
 
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
@@ -33,7 +33,6 @@
 ---
 <br>
 🎮 Play My Game!
-
 ➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 ---
 <br>
@@ -44,6 +43,7 @@
   <img align="left" alt="EpicStarBoy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LakhanKumawat&show_icons=true&theme=algolia&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakhanKumawat&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakhanKumawat&theme=algolia&repo=HacktoberFest2020)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://lakhankumawat.github.io/MY3RDWEBPAGE/
