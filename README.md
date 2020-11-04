@@ -12,29 +12,28 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv?si=CSuWUSw1T-ySIfXiBJGpPQ)
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no alternative" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br>
 ---
-
+### Watch My project
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 ---
 <br>
 
-📕 My Blog Post!
+## 📕 My Blog Post!
 <!-- BLOG-POST-LIST:START -->
 
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
 
 <!-- BLOG-POST-LIST:END -->
 ---
-<br>
-🎮 Play My Game !
+## 🎮Play My Game !
 
-➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
+### ➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 ---
 <br>
 
