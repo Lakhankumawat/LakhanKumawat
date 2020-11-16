@@ -18,13 +18,13 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no alternative" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br>
----
+
 ### Watch My project
 ### [<img align="left" alt=" Instagram" width="22px" src="https://img.icons8.com/nolan/2x/news.png" />][newsletter][SignUp to My NewsLetter!][newsletter]
 ---
 <br>
 
-## 📕 My Blog Post!
+### 📕 My Blog Post!
 <!-- BLOG-POST-LIST:START -->
 
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
@@ -46,7 +46,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LakhanKumawat&theme=algolia&repo=HacktoberFest2020)](https://github.com/LakhanKumawat/HacktoberFest2020)
 </details>
 
-[website]: https://lakhankumawat.github.io/MY3RDWEBPAGE/
+[website]: https://lakhancv.000webhostapp.com/
 [twitter]: https://twitter.com/KNKUMWT1
 [instagram]: https://www.instagram.com/_.lakhan.__/
 [linkedin]: https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B64Eho2C7RZuT2SxDPwg0DA%3D%3D
