@@ -76,7 +76,8 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 [<img align="left" alt="Lakhan| Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.lakhan.__/)
 [<img align="left" alt="Lakhan's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.instagram.com/_.lakhan.__/)
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LakhanKumawat&countColorcountColor&countColor=%237B1E7B"/>
-
+<br>
+<br>
  📕 My Blog Post!
 <!-- BLOG-POST-LIST:START -->
 ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
