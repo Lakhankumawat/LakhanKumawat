@@ -70,7 +70,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 # Connect with me <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="Lakhan_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://lakhancv.000webhostapp.com/)
+[<img align="left" alt="Lakhan_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif)
 [<img align="left" alt="Lakhan_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?)
 <a href="https://twitter.com/KNKUMWT1"><img align="left" alt="Lakhan Kumawat | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 [<img align="left" alt="Lakhan| Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.lakhan.__/)
