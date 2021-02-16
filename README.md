@@ -72,12 +72,12 @@ My Tech Stacks: 🛠
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LakhanKumawat&countColorcountColor&countColor=%237B1E7B"/>
 <br>
 <br>
- 📕 My Blog Post!
+## 📕 My Blog Post!<br>
 <!-- BLOG-POST-LIST:START -->
-➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
+### ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
 <!-- BLOG-POST-LIST:END -->
 ## 🎮Play My Game !
 ### ➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 ---
 <br>
-<a href="https://www.buymeacoffee.com/LakhanKumawat"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="41" alt="Buycoffee"/></a>
+<a href="https://www.buymeacoffee.com/LakhanKumawat"><img align="right" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="41" alt="Buycoffee"/></a>
