@@ -71,6 +71,7 @@ My Tech Stacks: 🛠
 [<img align="left" alt="Lakhan's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.instagram.com/_.lakhan.__/)
 [<img align="left" alt="Lakhan's PluralSight" width="30px" src="https://icon2.cleanpng.com/20190423/sqz/kisspng-pluralsight-learning-information-technology-manage-5cbf425486f1b0.6144049315560382285527.jpg"/>](https://app.pluralsight.com/profile/lakhan-kumawat-67)
 [<img align="left" width="35px" alt="Lakhan's Stacks" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14475582/lakhan-kumawat)
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LakhanKumawat&countColorcountColor&countColor=%237B1E7B"/>
 <br>
 <br>
