@@ -30,11 +30,10 @@
 <hr>
 
 <h2 align="center">
-My Tech Stacks: 🛠
-</h2>  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<h3 align="center">
+My Tech Stacks: 🛠 
+<br><br>
 <img src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/>
-</h3>
+</h2>
 
 
 <hr>
