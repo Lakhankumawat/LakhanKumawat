@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    This is Lakhan Kumawat, a 2nd year undergraduate pursuing B.Tech (CSE) from <a href="http://www.nitp.ac.in/php/home.php"> <b>National Institute of Technology</b>, Patna</a>. <br>
+    This is Lakhan Kumawat, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="http://www.nitp.ac.in/php/home.php"> <b>National Institute of Technology</b>, Patna</a>. <br>
     An aspiring <b> Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Game Dev, </b>&nbsp;<img src="https://media.giphy.com/media/9S3FMee8gGGRBhZsA7/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Rocket.gif" width="18px">and a
     <b>student</b> <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -55,13 +55,14 @@ My Tech Stacks: 🛠
 <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
 <br>
-<br>
-🔭 You have finally discovered my Github profile!!
-<br>Thanks for stopping by!
-<br>
+
 <br>
 
-# Connect with me <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+# Got Something to Tell Me? 
+<h4 align="center">  I’m easily a click away on WhatsApp. But lemme pretend like I’m busy and give you my social media handles. Here! </h4>
 
 [<img align="left" alt="Lakhan_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://1906055cv.000webhostapp.com/)
 [<img align="left" alt="Lakhan_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?)
