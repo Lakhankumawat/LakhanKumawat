@@ -64,8 +64,6 @@ My Tech Stacks: 🛠
 # Got Something to Tell Me? 
 <h4 align="center">  I’m easily a click away on WhatsApp. But lemme pretend like I’m busy and give you my social media handles. Here! </h4>
 
-[<img align="left" alt="Lakhan_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://1906055cv.000webhostapp.com/)
-[<img align="left" alt="Lakhan_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/lakhan-kumawat-7414391a2/?)
 <a href="https://twitter.com/KNKUMWT1"><img align="left" alt="Lakhan Kumawat | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 [<img align="left" alt="Lakhan| Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.lakhan.__/)
 [<img align="left" alt="Lakhan's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.instagram.com/_.lakhan.__/)
