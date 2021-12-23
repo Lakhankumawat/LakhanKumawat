@@ -65,7 +65,7 @@ My Tech Stacks: 🛠
 <h4 align="center">  I’m easily a click away on WhatsApp. But lemme pretend like I’m busy and give you my social media handles. Here! </h4>
 
 <a href="https://twitter.com/KNKUMWT1"><img align="left" alt="Lakhan Kumawat | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-[<img align="left" alt="Lakhan| Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.lakhan.__/)
+[<img align="left" alt="Lakhan| Instagram" height="30px" src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" />](https://www.instagram.com/_.lakhan.__/)
 [<img align="left" alt="Lakhan's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.instagram.com/_.lakhan.__/)
 [<img align="left" alt="Lakhan's PluralSight" width="30px" src="https://icon2.cleanpng.com/20190423/sqz/kisspng-pluralsight-learning-information-technology-manage-5cbf425486f1b0.6144049315560382285527.jpg"/>](https://app.pluralsight.com/profile/lakhan-kumawat-67)
 [<img align="left" width="35px" alt="Lakhan's Stacks" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14475582/lakhan-kumawat)
