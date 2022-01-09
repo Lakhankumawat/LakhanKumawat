@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     This is Lakhan Kumawat, a 3rd year undergraduate pursuing B.Tech (CSE) from <a href="http://www.nitp.ac.in/php/home.php"> <b>National Institute of Technology</b>, Patna</a>. <br>
-    An aspiring <b> Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Game Dev, </b>&nbsp;<img src="https://media.giphy.com/media/9S3FMee8gGGRBhZsA7/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+    An aspiring <b> Android Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Web Dev, </b>&nbsp;<img src="https://media.giphy.com/media/9S3FMee8gGGRBhZsA7/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Rocket.gif" width="18px">and a
     <b>student</b> <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em>
