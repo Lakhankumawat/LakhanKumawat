@@ -1,5 +1,11 @@
+![Home](https://user-images.githubusercontent.com/55774240/149648014-726df805-442f-407e-ad9f-6a9641645efd.png)
+![Rectangle 23 (1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png)
+![Home (1)](https://user-images.githubusercontent.com/55774240/149648347-8b7c61c6-f7b2-4989-891b-4ecec043bd84.png)
+<img align="right" src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/>
 
-<h1 align="center"><img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Hi.gif" width="30px" alt="hi">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Earth.gif" width="24px"> 
+
+
+<!-- <h1 align="center"><img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Hi.gif" width="30px" alt="hi">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Earth.gif" width="24px"> 
 <br>
 <h1 align="center">I'm Lakhan <img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Developer.gif" width="80px">
 </h1>
@@ -31,12 +37,14 @@
 
 <h2 align="center">
 My Tech Stacks: 🛠 
-<br><br>
-<img src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/>
-</h2>
+<br><br> </h2> 
+
+<img align="right" src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/>
 
 
-<hr>
+
+
+ <hr>
 
 <p align="center"><details>
 <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈</summary><br><br>
@@ -50,18 +58,22 @@ My Tech Stacks: 🛠
 <br />
 <br />
 </details>
+
+<img  src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 -->
 
-<img src="https://github.com/LakhanKumawat/LakhanKumawat/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+ 
+
+<!-- <br>
 <br>
-<br>
 
-<br>
-
+<br> -->
 
 
 
-# Got Something to Tell Me? 
+
+<!--
+ # Got Something to Tell Me? 
 <h4 align="center">  I’m easily a click away on WhatsApp. But lemme pretend like I’m busy and give you my social media handles. Here! </h4>
 
 <a href="https://twitter.com/KNKUMWT1"><img align="left" alt="Lakhan Kumawat | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
@@ -75,11 +87,11 @@ My Tech Stacks: 🛠
 <br>
 
 ## 📕 My Blog Post!<br>
-<!-- BLOG-POST-LIST:START -->
+
 ### ➡️ [Game Dev : Using Unity 2D](https://deploy-preview-47--learnturtle.netlify.app/articles/game/game-dev-with-unity/)
-<!-- BLOG-POST-LIST:END -->
+
 ## 🎮Play My Game !
 ### ➡️ [Neon Knight :Tower Rush](https://play.google.com/store/apps/details?id=com.EasterEggs.NeonKnightTowerRush&hl=en)
 ---
 <br>
-<a href="https://www.buymeacoffee.com/LakhanKumawat"><img align="right" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="41" alt="Buycoffee"/></a>
+<a href="https://www.buymeacoffee.com/LakhanKumawat"><img align="right" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="41" alt="Buycoffee"/></a> -->
