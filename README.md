@@ -1,6 +1,6 @@
 ![Home](https://user-images.githubusercontent.com/55774240/149648014-726df805-442f-407e-ad9f-6a9641645efd.png)
-![Rectangle 23 (1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png)
-![Home (1)](https://user-images.githubusercontent.com/55774240/149648347-8b7c61c6-f7b2-4989-891b-4ecec043bd84.png)
+![Rectangle 23(1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png)
+![Home](https://user-images.githubusercontent.com/55774240/150272142-731547c5-0c33-4b64-8349-312b9e9092b6.jpg)
 <img align="right" src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/>
 
 
