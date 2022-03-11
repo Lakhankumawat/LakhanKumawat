@@ -1,19 +1,16 @@
 ![Home](https://user-images.githubusercontent.com/55774240/149648014-726df805-442f-407e-ad9f-6a9641645efd.png)
 ![Rectangle 23(1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png)
 ![Home](https://user-images.githubusercontent.com/55774240/150272142-731547c5-0c33-4b64-8349-312b9e9092b6.jpg)
-<!-- <img align="right" src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/> -->
-
-<!-- <div align="center">
+<div align="center">
   <h2>See My Projects</h2>
     <a href="https://github.com/Lakhankumawat/smart-home-app">
     <img height="500" src="https://user-images.githubusercontent.com/55774240/157668305-c340d80e-9290-436f-865e-b08d600057b6.png" alt="Beautiful Edit"/>
     <img height="500" src="https://user-images.githubusercontent.com/55774240/157668738-cce7464a-ebb0-479c-a685-9fef4d1c884e.png" alt="Beautiful Edit"/>
     </a>
-  
-    
-  
+
 </div>
- -->
+<!-- <img align="right" src="https://github.com/Lakhankumawat/LakhanKumawat/blob/master/Assets/Edit%231.svg" alt="Beautiful Edit"/> -->
+
 
 
 
