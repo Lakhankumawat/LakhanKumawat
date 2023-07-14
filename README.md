@@ -1,5 +1,30 @@
-![Home](https://user-images.githubusercontent.com/55774240/149648014-726df805-442f-407e-ad9f-6a9641645efd.png)
-![Rectangle 23(1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png)
+## Hi
+#### My name is Lakhan Kumawat. National Institute of Technology Patna passout (2023) Bachelor of Technology (B.Tech) majoring in Computer Science & Engineering (CSE).
+## Experience - 1.5 Yrs
+1. #### Nogozo | Flutter Developer Intern | 2021 Jul - Dec | Remote 
+2. #### Troovi | Sofware Development Engineer (SDE) Intern | 2023 Jan - Jun | Remote 
+3. #### *Amazon* India | Sofware Development Engineer (SDE) Intern | 2023 Jan - Jul | On-Site - Bangalore
+4. #### Eversana | Sofware Development Engineer (SDE) | 2023 Jul - Present | On-Site Pune
+
+## Skills 
+### Programming
+- Core Java
+- C++
+### Tools & Technologies 
+- AWS - DynamoDB | Command Line Interface (CLI) | Cloud Development Kit (CDK) | Elastic Cloud Computing (EC2) | Lambda | 
+- Apollo Cloud Control (ACC) | Apollo Hosts |
+- Firebase - Cloud Firestore | Crashlytics | Remote Config |
+- MongoDB - Altas | Cloud |
+### Android 
+- Flutter & Dart
+- React Native
+### Web
+- MERN
+### CI/CD
+- Git/Github/GitLab
+
+<!-- ![Home](https://user-images.githubusercontent.com/55774240/149648014-726df805-442f-407e-ad9f-6a9641645efd.png)
+![Rectangle 23(1)](https://user-images.githubusercontent.com/55774240/149648028-e2074fef-391f-43b5-8f16-41ed236d8d3b.png) -->
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhankumawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
