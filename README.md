@@ -1,5 +1,5 @@
 ## Hi
-#### My name is Lakhan Kumawat. National Institute of Technology Patna passout (2023) Bachelor of Technology (B.Tech) majoring in Computer Science & Engineering (CSE).
+#### My name is Lakhan Kumawat. National Institute of Technology Patna (Bharat) passout (2023) Bachelor of Technology (B.Tech) majoring in Computer Science & Engineering (CSE).
 ## Experience - 1.5 Yrs
 1. #### Nogozo | Flutter Developer Intern | 2021 Jul - Dec | Remote 
 2. #### Troovi | Sofware Development Engineer (SDE) Intern | 2023 Jan - Jun | Remote 
