@@ -1,11 +1,16 @@
 ## Hi
 #### My name is Lakhan Kumawat. I successfully completed my B.Tech (2023) from National Institute of Technology Patna (IN) majoring in Computer Science & Engineering (CSE).
-## Experience - 2 Yrs
-1. #### *Amazon* | Software Development Engineer (SDE) 2 | 2024 Feb - Present | On-Site Bangalore
-2. #### Eversana | Software Development Engineer (SDE) | 2023 Jul - 2024 Feb | On-Site Pune
-3. #### *Amazon* India | Software Development Engineer (SDE) Intern | 2023 Jan - Jul | On-Site - Bangalore
-2. #### Troovi | Software Development Engineer (SDE) Intern | 2023 Jan - Jun | Remote 
-1. #### Nogozo | Flutter Developer Intern | 2021 Jul - Dec | Remote 
+## Experience - 4 Yrs
+1. #### *Amazon* | SDE2 (L5) | 2026 Feb - Present | On-Site Bangalore
+2. #### *Amazon* | SDE1 (L4) | 2024 Feb - 2026 Feb | On-Site Bangalore
+3. #### Eversana | SDE1 | 2023 Jul - 2024 Feb | On-Site Pune
+4. #### *Amazon* | SDE Intern | 2023 Jan - Jul | On-Site - Bangalore
+5. #### Troovi | SDE Intern | 2023 Jan - Jun | Remote 
+6. #### Nogozo | Flutter Developer Intern | 2021 Jul - Dec | Remote 
+
+LinkedIn : https://www.linkedin.com/in/lakhankumawat/
+Topmate : https://topmate.io/lakhan
+
 
 ## Skills 
 ### Programming
