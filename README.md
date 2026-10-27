@@ -5,7 +5,7 @@
 2. #### *Amazon* | SDE1 (L4) | 2024 Feb - 2026 Feb | On-Site Bangalore
 3. #### Eversana | SDE1 | 2023 Jul - 2024 Feb | On-Site Pune
 4. #### *Amazon* | SDE Intern | 2023 Jan - Jul | On-Site - Bangalore
-5. #### Troovi | SDE Intern | 2023 Jan - Jun | Remote 
+5. #### Troovi | SDE Intern | 2022 Jan - Jun | Remote 
 6. #### Nogozo | Flutter Developer Intern | 2021 Jul - Dec | Remote 
 
 LinkedIn : https://www.linkedin.com/in/lakhankumawat/
